@@ -1,0 +1,66 @@
+[
+  {
+    "id": "ORD-1001",
+    "customer": "Aarav Mehta",
+    "items": ["Wireless Keyboard", "USB-C Hub"],
+    "amount": 4598.0,
+    "status": "Delivered",
+    "placed_at": "2026-07-12T10:24:00Z"
+  },
+  {
+    "id": "ORD-1002",
+    "customer": "Maya Iyer",
+    "items": ["Noise Cancelling Headphones"],
+    "amount": 7999.0,
+    "status": "Shipped",
+    "placed_at": "2026-07-14T15:10:00Z"
+  },
+  {
+    "id": "ORD-1003",
+    "customer": "Rohan Kapoor",
+    "items": ["Smart Watch", "Screen Protector"],
+    "amount": 12349.0,
+    "status": "Packed",
+    "placed_at": "2026-07-16T08:45:00Z"
+  },
+  {
+    "id": "ORD-1004",
+    "customer": "Nisha Rao",
+    "items": ["Cotton Tote Bag", "Planner"],
+    "amount": 1499.0,
+    "status": "Processing",
+    "placed_at": "2026-07-17T13:20:00Z"
+  },
+  {
+    "id": "ORD-1005",
+    "customer": "Kabir Singh",
+    "items": ["Bluetooth Speaker"],
+    "amount": 3299.0,
+    "status": "Cancelled",
+    "placed_at": "2026-07-18T18:05:00Z"
+  },
+  {
+    "id": "ORD-1006",
+    "customer": "Ananya Das",
+    "items": ["Running Shoes", "Sports Socks"],
+    "amount": 5698.0,
+    "status": "Delivered",
+    "placed_at": "2026-07-19T09:30:00Z"
+  },
+  {
+    "id": "ORD-1007",
+    "customer": "Dev Patel",
+    "items": ["Backpack", "Laptop Sleeve"],
+    "amount": 4298.0,
+    "status": "Shipped",
+    "placed_at": "2026-07-20T11:55:00Z"
+  },
+  {
+    "id": "ORD-1008",
+    "customer": "Sara Khan",
+    "items": ["Desk Lamp", "Notebook Set", "Pen Pack"],
+    "amount": 2397.0,
+    "status": "Processing",
+    "placed_at": "2026-07-21T16:40:00Z"
+  }
+]
